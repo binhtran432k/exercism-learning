@@ -1,1 +1,3 @@
-cpp/**/test/ linguist-vendored
+cpp/*/test/** linguist-vendored
+cpp/*/CMakeLists.txt linguist-vendored
+c/*/test-framework/** linguist-vendored
