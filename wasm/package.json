@@ -1,0 +1,12 @@
+{
+  "name": "wasm",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@exercism/wasm-lib": "^0.2.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
